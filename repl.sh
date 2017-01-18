@@ -1,0 +1,1 @@
+docker run -itP -v `pwd`:/usr/src/app permy /bin/bash
